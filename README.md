@@ -10,11 +10,3 @@
 ![image](https://github.com/qyrsgt/VISA/assets/169964895/95c5b641-bd3d-48ec-aa1b-d6c7ec2051de)
 
 
-## 注册获取Fomepay
-[注册账号获取Fomepay](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
-
-1. 填写手机号并点击申请卡，选择金额支付即可。
-   
-![image](https://github.com/qyrsgt/VISA/assets/169964895/d481a693-99f7-4fdb-ac34-1654f1e60cdb)
-
-
